@@ -1,1 +1,2 @@
 Er was eens een docent die over Git wilde vertellen.
+En hij wil ook laten zien hoe het mis kan gaan.
