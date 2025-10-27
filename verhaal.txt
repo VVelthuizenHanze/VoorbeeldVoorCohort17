@@ -1,1 +1,2 @@
 Er was eens een docent die over Git wilde vertellen.
+Dat is namelijk niet zo eng als het misschien eerst lijkt.
